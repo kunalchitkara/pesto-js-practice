@@ -27,3 +27,13 @@ Write a function that converts integers into their equivalent [roman numerals.](
 
     convertIntToRoman(12)
     // XII
+
+# 3 [Flatten](https://www.notion.so/Flatten-825f4d60b7ce4dfdbb907b9f2434b746)
+
+Write a function that takes an array and flattens all the nested arrays.
+The default flattening level is 1.
+
+### Example —
+
+    flatten([1, 2, [3, 4, [5, 6]]]);
+    // [1, 2, 3, 4, [5, 6]]
