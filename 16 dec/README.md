@@ -37,3 +37,13 @@ The default flattening level is 1.
 
     flatten([1, 2, [3, 4, [5, 6]]]);
     // [1, 2, 3, 4, [5, 6]]
+
+# 3 [Sum of Fibs](https://www.notion.so/Sum-of-Fibs-ab94cfa29b3b4575adb5a8d20469f068)
+
+**Given a positive integer num, return the sum of all odd Fibonacci numbers that are less than or equal to num.**
+
+The first two numbers in the Fibonacci sequence are 1 and 1.
+
+Every additional number in the sequence is the sum of the two previous numbers. The first six numbers of the Fibonacci sequence are 1, 1, 2, 3, 5 and 8.
+
+For example,  `sumFibs(10)` should return 10 because all odd Fibonacci numbers less than 10 are 1, 1, 3, and 5.
