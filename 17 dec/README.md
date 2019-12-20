@@ -1,4 +1,4 @@
-# 1 [without](https://www.notion.so/without-5b2f7ebdb6d74522be97d15df2c8598b)
+# [1 without](https://www.notion.so/without-5b2f7ebdb6d74522be97d15df2c8598b)
 **Returns a new list without values of the first argument.**
 
 ### Restrictions
@@ -12,7 +12,7 @@
     without([1, 2], [1, 2, 1, 3, 4]); 
     //=> [3, 4]
 
-# 2 [array-addition](https://www.notion.so/array-addition-21e697c843964e4b8b1884297e60f4c0)
+# [2 array-addition](https://www.notion.so/array-addition-21e697c843964e4b8b1884297e60f4c0)
 **Please read the test cases and appropriately handle all the conditions.**
 
 Your code should pass on at least these tests. You may add more.
@@ -49,7 +49,7 @@ Your code should pass on at least these tests. You may add more.
       });
     });
 
-# 3 [args-strings](https://www.notion.so/args-strings-3f811831f0e54655a558f8aeb100146e)
+# [3 args-strings](https://www.notion.so/args-strings-3f811831f0e54655a558f8aeb100146e)
 The first argument is a string containing the placeholder. The second argument provides an array to fill in a sequential order. See examples below — 
 
 ### Example —
