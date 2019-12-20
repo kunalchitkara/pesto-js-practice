@@ -48,3 +48,14 @@ Your code should pass on at least these tests. You may add more.
         expect(() => arrayAddition(['1', '2', '3', '4'], [2, 'b', 'c'])).toThrow();
       });
     });
+
+# 3 [args-strings](https://www.notion.so/args-strings-3f811831f0e54655a558f8aeb100146e)
+The first argument is a string containing the placeholder. The second argument provides an array to fill in a sequential order. See examples below — 
+
+### Example —
+
+    argsString('{} {}', ['Hello', 'World!']);
+    // 'Hello World!'
+    
+    argsString('How are you?', ['Hey', 'what']);
+    // 'How are you?'
