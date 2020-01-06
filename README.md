@@ -44,3 +44,19 @@ Please do these exercises before the start of the next class.
 [better-string-lib](https://www.notion.so/better-string-lib-54ca68bd8f5d45dbb53e454de55cfe86)
 
 [freq-sort](https://www.notion.so/freq-sort-203e8127369d453c85581fc50f3d003a)
+
+# [Break 1 Questions [Public]](https://www.notion.so/Break-1-Questions-Public-5950ecba1320468d8353e1690f4fc316)
+
+[Isomorphic](https://www.notion.so/Isomorphic-17ad260ad1484eaca9eb4d435b2b68d5)
+
+[Substitution Cipher](https://www.notion.so/Substitution-Cipher-d81f25a128594a1487888280100c673b)
+
+[Balanced Braces](https://www.notion.so/Balanced-Braces-f15abccc2d6d40fc8aeffe176525bbd2)
+
+[Update Inventory](https://www.notion.so/Update-Inventory-e52343010c5640bab5f717ea06b5eb1a)
+
+[Pascals Triangle](https://www.notion.so/Pascals-Triangle-255df2ece998406c8efb2bb19228b431)
+
+[Pangram](https://www.notion.so/Pangram-302c70c995dd4c9a811eaaf308521ac3)
+
+[Boolean Expression Evaluator](https://www.notion.so/Boolean-Expression-Evaluator-4be2d1f2ccd84c3e8a1982de7871b3e4)
