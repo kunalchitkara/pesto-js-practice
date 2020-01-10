@@ -60,3 +60,15 @@ Please do these exercises before the start of the next class.
 [Pangram](https://www.notion.so/Pangram-302c70c995dd4c9a811eaaf308521ac3)
 
 [Boolean Expression Evaluator](https://www.notion.so/Boolean-Expression-Evaluator-4be2d1f2ccd84c3e8a1982de7871b3e4)
+
+# [Coding Cleanly [Public]](https://www.notion.so/Coding-Cleanly-Public-516fb0909bb54f738badfa8138b4f030)
+
+### Books
+
+- *Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design* — **Yourdon, Edward; Constantine, Larry L.**
+
+## Exercises
+
+[Alternating Characters](https://www.notion.so/Alternating-Characters-6730dcaafcb14a36b5590e92ed6b3495)
+
+[Aperture](https://www.notion.so/Aperture-aff15bc42f414e47bf3adf6685a31bcb)
