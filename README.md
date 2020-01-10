@@ -72,3 +72,28 @@ Please do these exercises before the start of the next class.
 [Alternating Characters](https://www.notion.so/Alternating-Characters-6730dcaafcb14a36b5590e92ed6b3495)
 
 [Aperture](https://www.notion.so/Aperture-aff15bc42f414e47bf3adf6685a31bcb)
+
+# [Programming Functionally [Public]](https://www.notion.so/Programming-Functionally-Public-0e898d0c55fb4a06b5e950856dc1f6a4)
+# Notes —
+
+# References —
+
+### Books
+
+- *Structure and Interpretation of Computer Programs* — **Harold Abelson and Gerald Jay Sussman (Also has a JavaScript Adaptation)**
+
+### Papers
+
+- *[Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)* — **John Hughes**
+- *The essence of functional programming* — **P Wadler**
+
+### Videos
+
+- [*The values of values*](https://www.youtube.com/watch?v=-6BsiVyC1kM)  — Rich Hickey
+- [*Functional Programming and Haskell*](https://www.youtube.com/watch?v=LnX3B9oaKzw) — John Hughes
+
+# Exercises
+
+[Minima](https://www.notion.so/Minima-07fc97f2096440f984dbf1a5de68d696)
+
+[Curry](https://www.notion.so/Curry-9f93581f4afd47cb9e2bd46f4415087b)
