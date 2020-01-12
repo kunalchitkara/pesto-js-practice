@@ -97,3 +97,27 @@ Please do these exercises before the start of the next class.
 [Minima](https://www.notion.so/Minima-07fc97f2096440f984dbf1a5de68d696)
 
 [Curry](https://www.notion.so/Curry-9f93581f4afd47cb9e2bd46f4415087b)
+
+# [Scopes and Closures [Public]](https://www.notion.so/Scopes-and-Closures-Public-bd98544abaf749c988cf53842e498236)
+
+### Books
+
+- [*ExploringJS (Chapter 22)*](https://exploringjs.com/es6/ch_generators.html) — **Axel Rauschmayer**
+
+### Articles
+
+- PEP 255 -- [Simple Generators](https://www.python.org/dev/peps/pep-0255/)
+- PEP 342 -- **Coroutines via Enhanced Generators**
+- [Really good resources on Python Generators](https://www.dabeaz.com/tutorials.html) — David Beazley
+
+### Videos
+
+- [Generators: The Final Frontier](https://www.youtube.com/watch?v=5-qadlG7tWo)
+
+# Exercises
+
+[Cycled](https://www.notion.so/Cycled-d8e3e2fef77e4a269860bf54e48b9a47)
+
+[Range Iterable](https://www.notion.so/Range-Iterable-153891e6b449463eab0953f88716e87e)
+
+[Fibonacci](https://www.notion.so/Fibonacci-c2a23eec453643c4b55f2232bb9b7cfa)
