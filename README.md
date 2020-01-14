@@ -121,3 +121,10 @@ Please do these exercises before the start of the next class.
 [Range Iterable](https://www.notion.so/Range-Iterable-153891e6b449463eab0953f88716e87e)
 
 [Fibonacci](https://www.notion.so/Fibonacci-c2a23eec453643c4b55f2232bb9b7cfa)
+
+# [HTML Accessibility [Public]](https://www.notion.so/HTML-Accessibility-Public-8122d64717b24a98b55921c9b5608e72)
+## Exercises
+
+[Form](https://www.notion.so/Form-531488f4aa8f4cfcb6879bfaa89a7426)
+
+[Form Attributes](https://www.notion.so/Form-Attributes-281de9181cfc4315a0dd03c85590e750)
