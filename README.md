@@ -143,3 +143,10 @@ Please do these exercises before the start of the next class.
 [Priority Queue](https://www.notion.so/Priority-Queue-894ab6c14b9f469db798d508c662a07a)
 
 [Modal](https://www.notion.so/Modal-7e2d0a29f7574fdcb0d561f7a7754db9)
+
+# [JavaScript Functions](https://www.notion.so/JavaScript-Functions-Public-814966464ee14793a6907d371a05a51c)
+## Exercises
+
+### [Cache Function](https://www.notion.so/Cache-Function-2ed3486b96814bb6b8999a455c960a7b)
+
+### [Counter](https://www.notion.so/Counter-4f7cc0ceee2948798ec9d7cc4d026b54)
