@@ -150,3 +150,10 @@ Please do these exercises before the start of the next class.
 ### [Cache Function](https://www.notion.so/Cache-Function-2ed3486b96814bb6b8999a455c960a7b)
 
 ### [Counter](https://www.notion.so/Counter-4f7cc0ceee2948798ec9d7cc4d026b54)
+
+# 21st January - Day 2 (JavaScript this Context)
+## Exercises
+
+### [Linked List Node](https://www.notion.so/Linked-List-Node-c90a7195978840888f098d7a66a73e5c)
+
+### [Bind](https://www.notion.so/Bind-a1be263eb45d42a2b9bce7f4332cc5b0)
