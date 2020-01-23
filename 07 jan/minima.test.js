@@ -6,4 +6,3 @@ describe('test scenarios of minima', () => {
         expect(minima(3, [5, 3, 4, 6, 10, 1])).toEqual([1, 3, 4]);
     });
 })
-
