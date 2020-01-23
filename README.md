@@ -157,3 +157,12 @@ Please do these exercises before the start of the next class.
 ### [Linked List Node](https://www.notion.so/Linked-List-Node-c90a7195978840888f098d7a66a73e5c)
 
 ### [Bind](https://www.notion.so/Bind-a1be263eb45d42a2b9bce7f4332cc5b0)
+
+# 22nd January - Day 3 (Prototypes)
+
+## [Prototypes [Public]](https://www.notion.so/Prototypes-Public-840780c970ee478a9ae57e51fa6af434)
+# Exercises
+
+### [Cache Function](https://www.notion.so/Cache-Function-8d8e24fb9a6343858eb3d58912e0ef8f)
+
+### [User Check Password](https://www.notion.so/User-Check-Password-0e00dc22761d4e3d9a99cbc527c7d781)
