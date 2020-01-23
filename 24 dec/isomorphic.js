@@ -18,4 +18,3 @@ function isomorphic([a, b]) {
 }
 
 module.exports = isomorphic;
-console.log(isomorphic(['better', 'fetter']));

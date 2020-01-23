@@ -20,18 +20,3 @@ class ConsumableUsers {
 }
 
 module.exports = ConsumableUsers;
-consumableUsers = new ConsumableUsers(['Alice', 'Bob']);
-var usersIterable = [];
-var length = consumableUsers.users.length;
-for (var i = 0; i <= length; i++) {
-    var user = consumableUsers.nextUser;
-    usersIterable.push(user);
-}
-const [
-    firstUser,
-    secondUser,
- ] = usersIterable;
-
-console.log('usersIterable', usersIterable);
-console.log('firstUser', firstUser);
-console.log('secondUser', secondUser);
