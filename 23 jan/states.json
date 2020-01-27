@@ -1,0 +1,266 @@
+[
+    {
+        "name": "Howland Island",
+        "iso": "UM-84"
+    },
+    {
+        "name": "Delaware",
+        "iso": "DE"
+    },
+    {
+        "name": "Alaska",
+        "iso": "AK"
+    },
+    {
+        "name": "Maryland",
+        "iso": "MD"
+    },
+    {
+        "name": "Baker Island",
+        "iso": "UM-81"
+    },
+    {
+        "name": "Kingman Reef",
+        "iso": "UM-89"
+    },
+    {
+        "name": "New Hampshire",
+        "iso": "NH"
+    },
+    {
+        "name": "Wake Island",
+        "iso": "UM-79"
+    },
+    {
+        "name": "Kansas",
+        "iso": "KS"
+    },
+    {
+        "name": "Texas",
+        "iso": "TX"
+    },
+    {
+        "name": "Nebraska",
+        "iso": "NE"
+    },
+    {
+        "name": "Vermont",
+        "iso": "VT"
+    },
+    {
+        "name": "Jarvis Island",
+        "iso": "UM-86"
+    },
+    {
+        "name": "Hawaii",
+        "iso": "HI"
+    },
+    {
+        "name": "Guam",
+        "iso": "GU"
+    },
+    {
+        "name": "United States Virgin Islands",
+        "iso": "VI"
+    },
+    {
+        "name": "Ohio",
+        "iso": "OH"
+    },
+    {
+        "name": "Utah",
+        "iso": "UT"
+    },
+    {
+        "name": "Oregon",
+        "iso": "OR"
+    },
+    {
+        "name": "California",
+        "iso": "CA"
+    },
+    {
+        "name": "New Jersey",
+        "iso": "NJ"
+    },
+    {
+        "name": "North Dakota",
+        "iso": "ND"
+    },
+    {
+        "name": "Kentucky",
+        "iso": "KY"
+    },
+    {
+        "name": "Minnesota",
+        "iso": "MN"
+    },
+    {
+        "name": "Oklahoma",
+        "iso": "OK"
+    },
+    {
+        "name": "Pennsylvania",
+        "iso": "PA"
+    },
+    {
+        "name": "New Mexico",
+        "iso": "NM"
+    },
+    {
+        "name": "American Samoa",
+        "iso": "AS"
+    },
+    {
+        "name": "Illinois",
+        "iso": "IL"
+    },
+    {
+        "name": "Michigan",
+        "iso": "MI"
+    },
+    {
+        "name": "Virginia",
+        "iso": "VA"
+    },
+    {
+        "name": "Johnston Atoll",
+        "iso": "UM-67"
+    },
+    {
+        "name": "West Virginia",
+        "iso": "WV"
+    },
+    {
+        "name": "Mississippi",
+        "iso": "MS"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "iso": "MP"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "iso": "UM"
+    },
+    {
+        "name": "Massachusetts",
+        "iso": "MA"
+    },
+    {
+        "name": "Arizona",
+        "iso": "AZ"
+    },
+    {
+        "name": "Connecticut",
+        "iso": "CT"
+    },
+    {
+        "name": "Florida",
+        "iso": "FL"
+    },
+    {
+        "name": "District of Columbia",
+        "iso": "DC"
+    },
+    {
+        "name": "Midway Atoll",
+        "iso": "UM-71"
+    },
+    {
+        "name": "Navassa Island",
+        "iso": "UM-76"
+    },
+    {
+        "name": "Indiana",
+        "iso": "IN"
+    },
+    {
+        "name": "Wisconsin",
+        "iso": "WI"
+    },
+    {
+        "name": "Wyoming",
+        "iso": "WY"
+    },
+    {
+        "name": "South Carolina",
+        "iso": "SC"
+    },
+    {
+        "name": "Arkansas",
+        "iso": "AR"
+    },
+    {
+        "name": "South Dakota",
+        "iso": "SD"
+    },
+    {
+        "name": "Montana",
+        "iso": "MT"
+    },
+    {
+        "name": "North Carolina",
+        "iso": "NC"
+    },
+    {
+        "name": "Palmyra Atoll",
+        "iso": "UM-95"
+    },
+    {
+        "name": "Puerto Rico",
+        "iso": "PR"
+    },
+    {
+        "name": "Colorado",
+        "iso": "CO"
+    },
+    {
+        "name": "Missouri",
+        "iso": "MO"
+    },
+    {
+        "name": "New York",
+        "iso": "NY"
+    },
+    {
+        "name": "Maine",
+        "iso": "ME"
+    },
+    {
+        "name": "Tennessee",
+        "iso": "TN"
+    },
+    {
+        "name": "Georgia",
+        "iso": "GA"
+    },
+    {
+        "name": "Alabama",
+        "iso": "AL"
+    },
+    {
+        "name": "Louisiana",
+        "iso": "LA"
+    },
+    {
+        "name": "Nevada",
+        "iso": "NV"
+    },
+    {
+        "name": "Iowa",
+        "iso": "IA"
+    },
+    {
+        "name": "Idaho",
+        "iso": "ID"
+    },
+    {
+        "name": "Rhode Island",
+        "iso": "RI"
+    },
+    {
+        "name": "Washington",
+        "iso": "WA"
+    }
+]
