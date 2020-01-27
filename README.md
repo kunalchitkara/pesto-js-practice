@@ -166,3 +166,17 @@ Please do these exercises before the start of the next class.
 ### [Cache Function](https://www.notion.so/Cache-Function-8d8e24fb9a6343858eb3d58912e0ef8f)
 
 ### [User Check Password](https://www.notion.so/User-Check-Password-0e00dc22761d4e3d9a99cbc527c7d781)
+
+# 23rd January - Day 4 (JavaScript Object Descriptors)
+
+## Articles
+
+- [https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
+
+## Exercises
+
+### [Set Default Property](https://www.notion.so/Set-Default-Property-722e79e71d504d208f14f15a81a26408)
+
+### [Account Dataset](https://www.notion.so/Account-Dataset-e9ebf8bffa9048efa4d934312f0e026d)
+
+### [Copy](https://www.notion.so/Copy-016907809c7a49feb0eb02b87f968376)
