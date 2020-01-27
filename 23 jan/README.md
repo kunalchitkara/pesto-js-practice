@@ -113,3 +113,6 @@ Aggregate the sum of each state into one hash table. Return the sum of all state
           .toBe(48629878.25);
       });
     });
+
+# [Copy](https://www.notion.so/Copy-016907809c7a49feb0eb02b87f968376)
+Write a method to create a copy of an object using descriptors. Write your own test cases.
